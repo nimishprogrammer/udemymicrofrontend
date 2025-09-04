@@ -1,2 +1,2 @@
-import('./bootstrap');
 import 'products/ProductsIndex';
+console.log('Container');
